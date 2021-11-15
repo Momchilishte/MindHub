@@ -1,0 +1,28 @@
+.dragon{
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(26, 26, 126);
+    border-radius: 40px;
+    border:10px solid mediumorchid;
+}
+.dragon12{
+    padding: 30px;
+text-align: center;
+background-color: rgb(43, 231, 137);
+border-radius: 40px;
+border: 10px solid rgb(107, 170, 160);
+}
+
+#dragon125{
+    width: 50%;
+    border-radius: 40px;
+}
+#dragon126{
+    border-radius: 40px;
+}
+#d43{
+font-size: larger;
+}
+#d434{
+    font-size: larger;
+}

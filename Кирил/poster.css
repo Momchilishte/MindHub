@@ -1,0 +1,31 @@
+#ster{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color:aqua;
+    font-size:60px ;
+}
+.poster{
+    background-color: rgb(255, 225, 89);
+    border:solid 5px rgb(156, 23, 209);
+ border-radius: 40px;
+ text-align: center;
+ width: 700px;
+transition:transform 3s ;
+}
+#klaun{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color:aqua;
+}
+#kiko{
+    filter: blur(10px); 
+    width: 500px;
+
+}
+#kiko:hover{
+    filter: none; 
+}
+.poster:hover{
+    transform:scale(1.2 ) ;
+
+}

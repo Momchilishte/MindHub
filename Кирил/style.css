@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(255,69,0);
+    color: rgb(208, 255, 0);
+
+}
+
+h1{text-align: center;}
+form{
+    text-align: center;}
+    #kiko9{
+        color: rgb(0, 145, 241);
+    }
+    #kiko2{
+        color: rgb(0, 228, 253);
+    }
+.slugterra{
+ padding: 10px;
+ background-color: blue;
+ border:solid 5px rgb(156, 23, 209);
+ border-radius: 40px;
+}
+img{
+    border-radius: 20px;
+}
+#sine{
+    background-color:rgb(32, 136, 12);
+    padding: 10px; 
+    text-align: center;
+    border-radius: 5px;
+    border: solid 5px rgb(156, 23, 209); 
+    position: fixed;
+}
+#razmazana:hover{
+    filter: none; 
+}
+#razmazana{
+    filter: blur(10px); 
+}
+#ivan{
+    background-color: blue;
+}
+#ivan:hover{
+    background-color: rgb(126, 39, 28);
+}
