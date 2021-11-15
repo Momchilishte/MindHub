@@ -1,0 +1,32 @@
+img{
+    width: 600px;
+      height: 350px;
+      border: #576bda 2px;
+      border-style: solid;
+      border-radius: 40px;
+}
+
+h1{
+    text-align: center;
+       font-size: 50px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-family: 'Caveat', cursive;
+}
+
+body{
+    color: rgb(18, 156, 18);
+    background-color: rgb(27, 207, 102);
+}
+p{
+    text-align: left;
+      font-size: 28px;
+      font-family: 'Caveat', cursive;
+}
+
+ol{
+    font-size: 50px; 
+}
+
+div{
+    color: aqua;
+}

@@ -1,0 +1,17 @@
+#zaglavie{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(255, 0, 128)
+}  
+
+.transparent{
+    background-color: rgb(212, 20, 219);
+    text-align: center;
+    width: 900px;
+    border-radius: 50px;
+    transition: transform 3s;
+}
+
+.transparent:hover{
+    transform: scale(1.2);
+}

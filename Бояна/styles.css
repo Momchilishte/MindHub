@@ -1,0 +1,120 @@
+    body{
+    color: rgb(138, 43, 226);
+    background-color: #db8dd9;
+    /* background:#DB1ED5; */
+    }
+
+    nav {
+      margin-top: 20px;
+    }
+    
+    a { text-decoration: none; /*премахва подчертаването на текста*/
+       color:aqua; /*задава цвят на текста*/ 
+       background:linear-gradient(rgb(142, 9, 231), rgb(10, 99, 231), rgb(82, 217, 235)); /*задава фон*/ 
+       text-transform: uppercase; /*задава главни букви*/
+      /* text-transform: lowercase; /*задава малки букви*/ 
+       padding: 15px; /*вътрешен равномерен отстъп*/ 
+       margin: 10px; /*външен равномерен отстъп*/
+       border-radius: 100px; /*заобляне формата на бутона*/ 
+       box-shadow: 8px 3px 10px rgb(223, 12, 100); } 
+
+       #sign{
+         background-color: aquamarine;
+         padding: 15px;
+         text-align: center;
+         border-radius: 15px;
+         position: fixed;
+         margin: auto;
+       }
+    
+    h1{
+       text-align: center;
+       font-size: 50px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-family: 'Caveat', cursive;
+    }
+
+    h2{
+      text-align: left;
+       font-size: 40px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-family: 'Caveat', cursive;
+    }
+
+    p{
+      text-align: left;
+      font-size: 28px;
+      font-family: 'Caveat', cursive;
+    }
+    
+    img{
+      width: 600px;
+      height: 350px;
+      border: #576bda 2px;
+      border-style: solid;
+      border-radius: 40px;
+    }
+
+    table, th, td{
+      border: 2px solid #576bda;
+      margin-top: 20px;
+      width: 20%;
+      text-align: center;
+      border-collapse: collapse;
+      font-size: 24px;
+      font-family: 'Caveat', cursive;
+
+    }
+
+    #snimka{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      height: 50%;
+      filter: blur(10px);
+    }
+
+    #snimka:hover{
+      filter: none;
+    }
+
+    #coler:hover{
+      filter:none
+    }
+
+    #paragraph{
+      color: aqua;
+    }
+
+    .cat{
+      background-color: aqua;
+      padding: 20px;
+      border: 5px dotted rgb(136, 8, 187);
+      border-radius: 40px;
+      }
+
+    .floatRight{
+      float: right;
+      margin-right: 70px;
+    }
+
+    .column{
+      float: left;
+      width: 32%;
+      padding-right: 25px;
+    }
+
+    .clearBoth{
+      clear: both;
+    }
+
+    .portrait{
+      width: 400px;
+      height: 700px;
+    }
+
+    form{
+      text-align: center;
+    }
+    
