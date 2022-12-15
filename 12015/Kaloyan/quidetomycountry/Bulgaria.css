@@ -1,0 +1,29 @@
+body {
+    background-image: url(index4.png);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: blue;
+    padding: 9px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+Nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 5px;
+}
+
+.div1 {
+    background-color: rgba(red, green, blue, alpha);
+    padding: 26px;
+    display: flex;
+    margin: 50px;
+    border-radius:8px;
+}
+footer{
+
+    text-align: center;
+}

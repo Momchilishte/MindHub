@@ -1,0 +1,21 @@
+body{
+background-image: url(rose-seamless-background_1182-700.webp) ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: rgb(243, 185, 243);
+    padding: 55px;;
+    ;
+
+}
+nav ul li {
+ list-style-type: style none;
+ display: inline;
+ margin: 5px;
+
+}
+nav ul{
+
+background-color: hotpink;
+padding: 55px;
+}

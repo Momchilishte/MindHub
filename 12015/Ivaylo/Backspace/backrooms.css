@@ -1,0 +1,15 @@
+body {
+    background-color: khaki;
+    font-family: 'Syne Mono', monospace;
+}
+ul {
+    list-style-image: url(favicon.ico);
+    margin: 20px;
+}
+.button {
+    background-color: darkkhaki;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 5px;
+}
+

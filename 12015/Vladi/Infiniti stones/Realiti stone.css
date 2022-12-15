@@ -1,0 +1,16 @@
+ul{
+    list-style-type: georgian;
+    font-family: 'Noto Serif Khojki', serif;
+font-family: 'Ubuntu', sans-serif;
+}
+body{
+background-color: rgb(152, 102, 232);
+}
+.button{
+background-color:darkkhaki;
+ font-size: 15px;
+paddling: 5px;
+border-radius: 5px;
+
+
+}

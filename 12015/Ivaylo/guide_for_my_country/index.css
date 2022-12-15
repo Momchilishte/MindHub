@@ -1,0 +1,27 @@
+body {
+    background-image: url(backnigga.jpg); 
+    text-shadow: darkkhaki;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    background-color: darkkhaki;
+    padding: 0.5in;
+    text-align: center;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 5px;
+}
+nav ul{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+}
+.div1{
+    background-color: rgba(240, 230, 140, 0.712);
+    padding: 1.5cm;
+}
+footer{
+    text-align: center;
+}
